@@ -5,7 +5,7 @@
 .navbar-nav li{
     margin-left: 25%;
     margin-top: 5%;
-    font-size: 20px;
+    font-size: map-get($tamanio-tipografia,parrafos);
     font-family: $tipografia-principal; 
     font-weight: bolder;
 }
