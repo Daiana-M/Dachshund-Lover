@@ -1,0 +1,17 @@
+.mainContent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px 200px;
+    justify-items: center;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+
+.mainContent_card{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 2%;
+}

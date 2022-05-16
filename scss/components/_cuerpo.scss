@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    margin-left: -2%;
+    margin-top: 15px;
+    font-size: 60px;
+    font-family: 'Germania One', cursive;
+    color: $color-principal;
+}
+
+h2{
+    margin-left: 15%;
+    text-decoration: underline;
+    font-family: $tipografia-principal;
+    font-weight: bolder;
+    color: $color-secundario;
+}
+
+h5{
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: $color-principal;
+}
+
+h6{
+    margin-left: 42%;
+    font-style: italic;
+    margin-bottom: 2%;
+  
+}
+
+p{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: $tipografia-principal;
+    font-weight:600;
+    font-size: 20px;
+    color: $color-principal;
+}
+
+.formulario{
+    margin-left: 30%;
+    margin-top: 5%;
+    font-weight: bolder;
+    color: $color-secundario;
+}

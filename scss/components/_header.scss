@@ -1,0 +1,11 @@
+.navbar{
+    background-image: url(./imagenes/backbarra.jpg);  
+}
+
+.navbar-nav li{
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: 20px;
+    font-family: $tipografia-principal; 
+    font-weight: bolder;
+}
