@@ -99,6 +99,7 @@ h5{
 }
 
 .carousel-inner{
+    width: 100%;
     margin-top: 4%;
     margin-left: 1%;
     margin-bottom: 2%; 
