@@ -376,7 +376,7 @@ a:hover{
 
 }
 
-/*MEDIA QUERIES tablet*/
+/*MEDIA QUERIES TABLET*/
 
 @media  only screen and (max-width:768px){
 
@@ -442,12 +442,6 @@ h6{
 
 }
 
-/*MEDIA QUERIES PORTATIL*/
 
-@media  only screen and (max-width:1024px){
-
-
-
-}
 
     
